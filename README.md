@@ -27,7 +27,7 @@ appstore中app的转移
 ###填入新的app信息
 
 ![Effect pic](picture/8.png)
+![Effect pic](picture/9.png)
 
 ###至此转移完成 注意查看邮件
 
-![Effect pic](picture/9.png)
